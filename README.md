@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Erik Victorino
+# 👨‍💻 Erik Victorino
 
 **`Desenvolvedor Back-end`**
 
