@@ -5,7 +5,7 @@
 Me chamo Erik Victorino Ferreira Filho, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar-Londrina-Pr. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[Erik Victorino](https://www.linkedin.com/in/erik-victorino-b04684260/)", onde falo sobre minha rotina de estudos, desenvolvimento de projetos web, aprendizado em programação e minha evolução na área de tecnologia.
 
 <p align="left">
-    <a href="(https://www.linkedin.com/in/erik-victorino)">
+    <a href="https://www.linkedin.com/in/erik-victorino">
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
