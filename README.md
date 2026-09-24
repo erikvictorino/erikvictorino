@@ -56,6 +56,14 @@ Me chamo Erik Victorino Ferreira Filho, tenho 19 anos e sou natural de São Paul
 />
 <img 
     align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
@@ -91,8 +99,24 @@ Me chamo Erik Victorino Ferreira Filho, tenho 19 anos e sou natural de São Paul
     alt="express"
     title="express" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color:#2ECC71; border-radius:4px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="mongodb"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="n8n"
+    title="n8n" 
+    width="30px" 
+    style="padding-right: 10px; background-color:#EA4B71; border-radius:4px;"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg"
 />
 <br/>
 <br/>
@@ -105,17 +129,14 @@ Me chamo Erik Victorino Ferreira Filho, tenho 19 anos e sou natural de São Paul
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=erikvictorino&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=erikvictorino&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left"
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikvictorino&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikvictorino&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
-</p>
-
-
 </p>
 
