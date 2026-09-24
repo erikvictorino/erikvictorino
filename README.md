@@ -97,10 +97,10 @@ Me chamo Erik Victorino Ferreira Filho, tenho 19 anos e sou natural de São Paul
 <img 
     align="left" 
     alt="express"
-    title="express" 
-    width="30px" 
-    style="padding-right: 10px; background-color:#2ECC71; border-radius:4px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+    title="Express" 
+    height="30px" 
+    style="padding-right: 10px;"
+    src="https://img.shields.io/badge/Express-2ECC71?style=for-the-badge&logo=express&logoColor=white"
 />
 <img 
     align="left" 
@@ -114,9 +114,9 @@ Me chamo Erik Victorino Ferreira Filho, tenho 19 anos e sou natural de São Paul
     align="left" 
     alt="n8n"
     title="n8n" 
-    width="30px" 
-    style="padding-right: 10px; background-color:#EA4B71; border-radius:4px;"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg"
+    height="30px" 
+    style="padding-right: 10px;"
+    src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
 />
 <br/>
 <br/>
