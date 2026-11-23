@@ -52,6 +52,5 @@ Curso **Análise e Desenvolvimento de Sistemas** na Unicesumar e estudo principa
 ### 📊 Estatísticas
 
 <p align="left">
-<img alt="GitHub Stats" height="170" src="./profile/stats.svg" />
 <img alt="Top Languages" height="170" src="./profile/top-langs.svg" />
 </p>
