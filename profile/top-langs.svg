@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="122.95"
+          width="124.38"
           height="8"
           fill="#f1e05a"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="122.95"
+          x="124.38"
           y="0"
-          width="81.56"
+          width="80.71"
           height="8"
           fill="#663399"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="204.51"
+          x="205.09"
           y="0"
-          width="39.69"
+          width="39.17"
           height="8"
           fill="#f7931e"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.20"
+          x="244.26"
           y="0"
-          width="15.80"
+          width="15.74"
           height="8"
           fill="#e34c26"
         />
@@ -200,22 +200,22 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 49.18%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 49.75%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">CSS 32.62%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">CSS 32.28%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f7931e" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Handlebars 15.88%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Handlebars 15.67%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 2.32%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 2.29%</text>
     </g>
   </g></g>
   </g>
